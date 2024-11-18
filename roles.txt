@@ -1,0 +1,10 @@
+{
+    "users": {
+        "yılmaz": {"password": "0", "role": "admin"},
+        "canan": {"password": "0", "role": "admin"},
+        "sinan": {"password": "0", "role": "admin"},
+        "Mert": {"password": "0", "role": "worker"},
+        "Umut": {"password": "0", "role": "worker"},
+        "Ceren": {"password": "0", "role": "worker"}
+    }
+}
